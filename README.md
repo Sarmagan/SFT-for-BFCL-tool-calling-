@@ -7,4 +7,4 @@ Results on 200 BFCL_v4_multiple test queries are as follows:
 | -------------------------------- | --------------------- |
 | Salesforce/xLAM-1b-fc-r          | 87.50%                |
 | Llama-3.2-3B-Instruct            | 83.00%                |
-| Llama-3.2-3B + QLoRA (this work) | 78.00%                |
+| Llama-3.2-3B + QLoRA (this work) | 79.00%                |
